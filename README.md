@@ -1,3 +1,5 @@
+![sadsasade](https://drive.google.com/file/d/13yPfHCgWAJ8LxN29SFYVOg8MjWlcpSAh/view?usp=sharing)
+
 **A Juggler's Tale;** [**Türkçe yama için tıkla**](https://anotepad.com/notes/ky4ntxnd)
 
 **A Plague Tale: Requiem;** [**Türkçe yama için tıkla**](https://sinnerclownceviri.com/threads/a-plague-tale-requiem-tuerkce-yama.2157/)
