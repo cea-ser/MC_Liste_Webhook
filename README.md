@@ -1,4 +1,5 @@
 **A Juggler's Tale;** [**Türkçe yama için tıkla**](https://anotepad.com/notes/ky4ntxnd)
+
 **A Plague Tale: Requiem;** [**Türkçe yama için tıkla**](https://sinnerclownceviri.com/threads/a-plague-tale-requiem-tuerkce-yama.2157/)
 **Aeon Must Die;** [**Türkçe yama için tıkla**](https://anotepad.com/notes/fqsrra2k)
 **Aliens Fireteam Elite;** [**Türkçe yama için tıkla**](https://anotepad.com/notes/ndqm7j52)
