@@ -1,26 +1,47 @@
 **A Juggler's Tale;** [**Türkçe yama için tıkla**](https://anotepad.com/notes/ky4ntxnd)
 
 **A Plague Tale: Requiem;** [**Türkçe yama için tıkla**](https://sinnerclownceviri.com/threads/a-plague-tale-requiem-tuerkce-yama.2157/)
+
 **Aeon Must Die;** [**Türkçe yama için tıkla**](https://anotepad.com/notes/fqsrra2k)
+
 **Aliens Fireteam Elite;** [**Türkçe yama için tıkla**](https://anotepad.com/notes/ndqm7j52)
+
 **Anno 1800 +DLC;** [**Türkçe yama için tıkla**](https://anotepad.com/notes/xrrse2wq)
+
 **ANVIL;** [**Türkçe yama için tıkla**](https://anotepad.com/notes/7jtjmkbw)
+
 **Assassin's Creed®️ Valhalla + DLC1 + DLC2 +DLC3 Orijinal Sürüm;** [**Türkçe yama için tıkla**](https://discord.com/channels/885595211806441482/885632196050812939/999026607232667769)
+
 **Assassin's Creed®️: Origins + DLC;** [**Türkçe yama için tıkla**](https://discord.com/channels/885595211806441482/885632196050812939/999026607232667769)
+
 **Assassin’s Creed: Odyssey Deluxe Edition DLC;** [**Türkçe yama için tıkla**](https://anotepad.com/notes/9y3akq6h)
+
 **Atomic Heart;** [**Türkçe yama için tıkla**](https://discord.com/channels/885595211806441482/885632196050812939/999026607232667769)
+
 **Bless Unleashed;** [**Türkçe yama için tıkla**](https://anotepad.com/notes/8qeqgdfk)
+
 **Call to Arms: Gates of Hell - Ostfront;** [**Türkçe yama için tıkla**](https://anotepad.com/notes/s44my7wt)
+
 **Cult of the Lamb;** [**Türkçe yama için tıkla**](https://discord.com/channels/885595211806441482/885632196050812939/999026607232667769)
+
 **Curse of the Dead Gods;** [**Türkçe yama için tıkla**](https://anotepad.com/notes/mejy9jen)
+
 **Deus Ex: The Fall;** [**Türkçe yama için tıkla**](https://sinnerclownceviri.com/threads/deus-ex-the-fall-tuerkce-yama-yayinlandi.699/)
+
 **Diablo 2 Resurrected;** [**Türkçe yama için tıkla**](https://discord.com/channels/885595211806441482/885632196050812939/999026607232667769)
+
 **Divinity: Original Sin Enhanced Edition;** [**Türkçe yama için tıkla**](https://anotepad.com/notes/6qeba8p3)
+
 **Divinity: Original Sin 2 - Definitive Edition;** [**Türkçe yama için tıkla**](https://anotepad.com/notes/yngc4f8j)
+
 **Doctor Who The Edge of Reality;** [**Türkçe yama için tıkla**](https://anotepad.com/notes/e6p7ejjp)
+
 **Elden Ring;** [**Türkçe yama için tıkla**](https://discord.com/channels/885595211806441482/885632196050812939/999026607232667769)
+
 **ELEX;** [**Türkçe yama için tıkla**](https://forum.donanimhaber.com/elex-translate-turkce-yama--151631346)
+
 **ENDER LILIES: Quietus of the Knights;** [**Türkçe yama için tıkla**](https://forum.donanimhaber.com/ender-lilies-quietus-of-the-knights-translate-turkce-yama--151144000)
+
 **Evil West;** [**Türkçe yama için tıkla**](https://discord.com/channels/885595211806441482/885632196050812939/999026607232667769)
 **Fallout 76 Fallout Worlds;** [**Türkçe yama için tıkla**](https://discord.com/channels/885595211806441482/885632196050812939/999026607232667769)
 **Far Cry 6;** [**Türkçe yama için tıkla**](https://sinnerclownceviri.com/konu/far-cry-6-dlcler-tuerkce-yama.2795/)
