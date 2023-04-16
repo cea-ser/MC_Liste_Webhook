@@ -1,18 +1,15 @@
 {
-  "content": "**Hoşgeldiniz!**\n\nTürkçe yama ve oyunlarınızda oluşan hatalar için <:Makine:1077971252158939136> **Makine Çeviri Rehber **Forum sayfaları; \n_ _",
+  "content": "**Hoşgeldiniz!** \n\nBünyemizde Bulunan Türkçe Yamaları ve Uygulamamızı İndirmek için <:Makine:1077971252158939136> **Makine Çeviri Liste **;",
   "embeds": [
     {
-      "title": "__**Genel Sorunlar ve rehber**;__",
-      "description": "**Yama Kurulumunda Dikkat Edilecek Detaylar;** [__*Buraya Tıkla*__](https://discord.com/channels/885595211806441482/1048700011942264923/1048700011942264923) \n**Red Dead Redemption 2 Epic Games Kurulum;** [__*Buraya Tıkla*__](https://discord.com/channels/885595211806441482/1096492561490776064/1096492561490776064) \n**Hogwarts Legacy Türkçe Yama Kurulum;** [__*Buraya Tıkla*__](https://discord.com/channels/885595211806441482/1081408343660318880/1081408343660318880) \n**Hogwarts Legacy Türkçe Yama Kaldırma;** [__*Buraya Tıkla*__](https://discord.com/channels/885595211806441482/1073392450749616148) \n**Red Dead Rededemtion 2 Çalışıyor Hatası;** [__*Buraya Tıkla*__](https://discord.com/channels/885595211806441482/1094539262063562773/1094539262063562773) \n**Assassin's Creed: Origins Çökme Sorunu;** [__*Buraya Tıkla*__](https://discord.com/channels/885595211806441482/1093413471456084048/1093413471456084048) \n**Windows Defender Kapatma;** [__*Buraya Tıkla*__](https://discord.com/channels/885595211806441482/1091790022367268934/1091790022367268934)\n**Listede Yer Almayan Sorunlar İçin ;** [__*Buraya Tıkla*__](https://discord.com/channels/885595211806441482/1091790022367268934/1091790022367268934)",
-      "color": 65311,
-      "footer": {
-        "text": "Listerde yer almayan sorunlar için forum sayfasına göz atabilir, bulduğunuz çözümler veya yaşadığınız sorunlar ile alakalı başlıklar oluşturabilirsiz."
+      "title": "__**Makine Çeviri Yama Yükleyici**__",
+      "description": "**Versiyon;**  **__v7__**\n**Son Güncelleme;** [**Mesaja gitmek için tıkla**](https://discord.com/channels/885595211806441482/885632196050812939/1042193536772214835)\n\n**KULLANIM;**\naltta bulunan menüden yüklemek istediğiniz oyunu seçtikten sonra **\"İNDİR\"** düğmesine basın, daha sonra yüklemek istediğiniz oyunun bulunduğu klasördeki **\".exe\"** formatındaki dosyayı seçiniz. __indirme ve yükleme otomatik olarak başlayacaktır.__ \nDaha sonra setup adımları ile kurulumu yapınız. \n\n**Not;**\n``Oyun hakkındaki ayrıntılar programın sağ köşesindeki bilgilendirme ekranındadır, görsellere bakmak için görsellere tıkalayabilirsiniz.``\n\ndaha fazla oyun listesi için sağ ok tuşuna basın ayrıca aşağıdaki uygulama dışı listeyi kullanarak daha fazla oyuna erişebilirsiniz. \n\n**Uygulama dışı listeye ulaşmak için;** [**__Liste için tıkla__**](https://github.com/Ceasser/MC_Liste_Webhook/blob/main/README.md)",
+      "color": null,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/885695589554208768/1054164034611576862/image.png"
       }
     }
   ],
-  "username": "Makine Rehber",
-  "avatar_url": "https://i.hizliresim.com/2ag4rrt.png",
-  "attachments": [],
-  "thread_name": "Forum",
-  "flags": 4100
+  "username": "Makine Çeviri",
+  "attachments": []
 }
