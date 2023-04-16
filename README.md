@@ -1,4 +1,4 @@
-![sadsasade](https://drive.google.com/file/d/13yPfHCgWAJ8LxN29SFYVOg8MjWlcpSAh/view?usp=sharing)
+![](https://imgur.com/6tUgg4D.png)
 
 **A Juggler's Tale;** [**Türkçe yama için tıkla**](https://anotepad.com/notes/ky4ntxnd)
 
