@@ -151,6 +151,6 @@
 
 **World War Z:Aftermath;**  [**Türkçe yama için tıkla**](https://pixeldrain.com/u/i4j8qnWW)
 
-**Yes, Your Grace;**  [**Türkçe yama için tıkla**]([https://anotepad.com/notes/hykdih5g](https://sinnerclownceviri.com/konu/yes-your-grace-tuerkce-yama-swat.1103/))
+**Yes, Your Grace;**  [**Türkçe yama için tıkla**](https://anotepad.com/notes/hykdih5g](https://sinnerclownceviri.com/konu/yes-your-grace-tuerkce-yama-swat.1103/)
 
 `Not; liste alfabetik sıraya göre ayarlanmıştır.`
