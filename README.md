@@ -95,9 +95,11 @@
 **Red Solstice 2: Survivors;** [**Türkçe yama için tıkla**](https://anotepad.com/notes/wihtmrc4)
 
 **Red Dead Redemption 2 Orijinal Sürüm;** [**Türkçe yama için tıkla**](https://discord.com/channels/885595211806441482/885632196050812939/999026607232667769)
+
 **Red Dead Redemption 2 Kürek Sürüm;** [**Türkçe yama için tıkla**](https://anotepad.com/notes/pbkxm2h9)
 
 **Resident Evil 4 Remake;**  [**Türkçe yama için tıkla**](https://forum.donanimhaber.com/resident-evil-4-remake-turkce-yama-sixth-sense-ceviri--155380714)
+
 **Resident Evil 7: Biohazard  + DLC;**  [**Türkçe yama için tıkla**](https://anotepad.com/notes/nn8ayphi)
 
 **Returnel;**  [**Türkçe yama için tıkla**](https://discord.com/channels/885595211806441482/885632196050812939/999026607232667769)
@@ -146,10 +148,7 @@
 
 **Wo Long: Fallen Dynasty;**  [**Türkçe yama için tıkla**](https://sinnerclownceviri.com/threads/wo-long-fallen-dynasty-tuerkce-yama-swat.2701/)
 
-
 **Wolfenstein II The New Colossus;**  [**Türkçe yama için tıkla**](https://pixeldrain.com/u/i4j8qnWW)
-
-
 
 **Yes, Your Grace;**  [**Türkçe yama için tıkla**](https://sinnerclownceviri.com/konu/yes-your-grace-tuerkce-yama-swat.1103/)
 
